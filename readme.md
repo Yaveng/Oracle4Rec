@@ -12,7 +12,7 @@ The 18th ACM International Conference on Web Search and Data Mining (WSDM). 2025
 
 
 
-#### How to run this code
+### How to run this code
 
 ##### Step 1: Check the compatibility of your running environment. Generally, different running environments will still have a chance to cause different experimental results though all random processes are fixed in the code. Our running environments are
 
@@ -72,6 +72,6 @@ Please put the datasets under the directory `data/`. If you use your own dataset
 
   
 
-#### Acknowledgement
+### Acknowledgement
 
 Our code is built upon [FMLP-Rec](https://github.com/Woeee/FMLP-Rec), we thank authors for their efforts.
