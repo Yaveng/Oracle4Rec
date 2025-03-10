@@ -70,6 +70,13 @@ Please put the datasets under the directory `data/`. If you use your own dataset
   python main.py --data_name Beauty --lr 0.001 --num_filter_layers 3 --alpha 0.005 --hidden_size 128 --num_hidden_layers 3 --decay_factor 0.05 --ratio 0.75
   ```
 
+
+* For ```Sports``` dataset, please use the following code:
+
+  ```sh
+  python main.py --data_name Sports --lr 0.001 --num_filter_layers 3 --alpha 0.01 --hidden_size 128 --num_hidden_layers 3 --decay_factor 0.05 --ratio 0.75
+  ```
+
   
 
 ### Acknowledgement
